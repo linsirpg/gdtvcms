@@ -1,0 +1,7 @@
+[2018-04-20T08:58:55.290] [TRACE] request - f7krr14i ::ffff:192.168.0.112 GET / 302 7ms
+[2018-04-20T08:58:55.993] [TRACE] request - vy18wwj2 ::ffff:192.168.0.112 GET /server/getCookie 200 23ms
+[2018-04-20T08:58:56.165] [TRACE] request - 2e699l6l ::ffff:192.168.0.112 GET /favicon.ico 404 2ms
+[2018-04-20T08:58:56.384] [TRACE] request - th4gwaa9 ::ffff:192.168.0.112 GET /server/GetSpecialSubjectPagination?offset=0&limit=10&title=&Status=2 200 25ms
+[2018-04-20T08:58:56.394] [TRACE] request - mjq43ppg ::ffff:192.168.0.112 GET /favicon.ico 404 1ms
+[2018-04-20T08:58:58.666] [TRACE] request - 0lrijmnq ::ffff:192.168.0.112 GET /server/getCookie 200 5ms
+[2018-04-20T08:58:58.756] [TRACE] request - f7su59jf ::ffff:192.168.0.112 GET /shophome/advertPosition?offset=0&limit=10&title=&status=2 200 13ms

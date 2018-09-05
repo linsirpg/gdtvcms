@@ -1,0 +1,7 @@
+[2018-05-04T16:27:24.373] [TRACE] request - x4wb0lpe ::ffff:192.168.0.112 GET /shophome/Goodstatus?status=0&Id=28 200 62ms
+[2018-05-04T16:27:25.616] [TRACE] request - jmmaa5yx ::ffff:192.168.0.112 GET /shophome/Goodstatus?status=0&Id=29 200 51ms
+[2018-05-04T16:27:26.200] [TRACE] request - 5sdktq7l ::ffff:192.168.0.112 GET /shophome/Goodstatus?status=0&Id=30 200 35ms
+[2018-05-04T16:27:27.467] [TRACE] request - fy58r1yf ::ffff:192.168.0.112 GET /admin 200 3ms
+[2018-05-04T16:27:28.109] [TRACE] request - wqa48s92 ::ffff:192.168.0.112 GET /server/getCookie 200 12ms
+[2018-05-04T16:27:28.404] [TRACE] request - 36bi2tmj ::ffff:192.168.0.112 GET /shophome/getKind?advertCode=HOME_SPECIAL_SPACE 200 25ms
+[2018-05-04T16:27:28.420] [TRACE] request - gaqnjwk4 ::ffff:192.168.0.112 GET /shophome/GetCmsProductRef?Code=HOME_SPECIAL_SPACE&offset=0&limit=10&title=&status=2 200 36ms

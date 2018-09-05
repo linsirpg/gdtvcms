@@ -1,0 +1,17 @@
+[2018-05-07T09:37:26.384] [TRACE] request - l2268tjb ::ffff:192.168.0.112 GET /admin 200 1ms
+[2018-05-07T09:37:26.535] [TRACE] request - 3xxdxkle ::ffff:192.168.0.112 GET /server/getCookie 200 31ms
+[2018-05-07T09:37:26.686] [TRACE] request - uesov9ke ::ffff:192.168.0.112 GET /shophome/getKind?advertCode=HOME_BANNER 200 16ms
+[2018-05-07T09:37:26.699] [TRACE] request - xqoksaqg ::ffff:192.168.0.112 GET /shophome/GetCmsProductRef?Code=HOME_BANNER&offset=0&limit=10&title=&status=2 200 24ms
+[2018-05-07T09:37:27.126] [TRACE] request - 17mhkdg1 ::ffff:192.168.0.112 GET /server/getCookie 200 9ms
+[2018-05-07T09:37:27.281] [TRACE] request - x9etnbyk ::ffff:192.168.0.112 GET /server/GetSpecialSubjectPagination?offset=0&limit=10&title=&Status=2 200 19ms
+[2018-05-07T09:37:29.024] [TRACE] request - 520b1it3 ::ffff:192.168.0.112 GET /admin 200 2ms
+[2018-05-07T09:37:29.161] [TRACE] request - u9nswn5y ::ffff:192.168.0.112 GET /server/getCookie 200 10ms
+[2018-05-07T09:37:29.311] [TRACE] request - 42enh4ki ::ffff:192.168.0.112 GET /server/GetSpecialSubjectPagination?offset=0&limit=10&title=&Status=2 200 15ms
+[2018-05-07T09:37:30.824] [TRACE] request - vfb4v5ip ::ffff:192.168.0.112 GET /admin 200 4ms
+[2018-05-07T09:37:30.849] [TRACE] request - oo19jexf ::ffff:192.168.0.112 GET /admin/static/js/manifest.639fb02a3932e8d20e89.js 200 2ms
+[2018-05-07T09:37:30.849] [TRACE] request - rvdm62ly ::ffff:192.168.0.112 GET /admin/static/css/app.db8b41d0dbec02adde6f3060ee88086c.css 200 5ms
+[2018-05-07T09:37:30.862] [TRACE] request - sjfui7h8 ::ffff:192.168.0.112 GET /admin/static/js/vendor.84a035231c0f7b52d17f.js 200 7ms
+[2018-05-07T09:37:30.862] [TRACE] request - i1372hns ::ffff:192.168.0.112 GET /admin/static/js/app.59aa48de93653c03eaf4.js 200 7ms
+[2018-05-07T09:37:31.430] [TRACE] request - 2einxr65 ::ffff:192.168.0.112 GET /server/getCookie 200 16ms
+[2018-05-07T09:37:31.432] [TRACE] request - otyk4lpt ::ffff:192.168.0.112 GET /favicon.ico 404 3ms
+[2018-05-07T09:37:31.648] [TRACE] request - 65dcdw12 ::ffff:192.168.0.112 GET /server/GetSpecialSubjectPagination?offset=0&limit=10&title=&Status=2 200 16ms

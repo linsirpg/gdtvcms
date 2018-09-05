@@ -1,0 +1,28 @@
+{
+	"restartable": "rs",
+	"ignore": [
+		".cmd",
+		".git",
+		".xls",
+		".xlsx",
+    	"app/public",
+		"logger/**",
+		"node_modules/**",
+		"node_modules/**/node_modules"
+	],
+	"verbose": true,
+	"execMap": {
+		"": "node",
+		"js": "node --harmony"
+	},
+	"events": {
+	},
+	"watch": [
+		"*.*"
+	],
+	"env": {
+		"NODE_ENV": "dev"
+	},
+	"ext": "js json",
+	"legacy-watch": false
+}

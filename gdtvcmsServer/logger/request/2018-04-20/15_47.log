@@ -1,0 +1,19 @@
+[2018-04-20T15:47:12.518] [ERROR] requestError - fdbsh6ou ::ffff:192.168.0.112 GET /server/getCookie 404 10004ms { TimeoutError: ResourceRequest timed out
+    at ResourceRequest._fireTimeout (D:\公司项目-新\gdtv_cms\balanceServer\node_modules\generic-pool\lib\ResourceRequest.js:58:17)
+    at Timeout.bound (D:\公司项目-新\gdtv_cms\balanceServer\node_modules\generic-pool\lib\ResourceRequest.js:8:15)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5) name: 'TimeoutError', headerSent: true }
+[2018-04-20T15:47:17.054] [TRACE] request - u5dwttdg ::ffff:192.168.0.112 GET /favicon.ico 404 1ms
+[2018-04-20T15:47:25.450] [TRACE] request - dy1xoe24 ::ffff:192.168.0.112 GET /server/getCookie 200 8613ms
+[2018-04-20T15:47:27.540] [TRACE] request - o3u3yt8x ::ffff:192.168.0.112 GET /shophome/GetCmsProductRef?Code=HOME_SPECIAL_SPACE&offset=0&limit=10&title=&status=2 200 1776ms
+[2018-04-20T15:47:35.094] [TRACE] request - wtll5kb2 ::ffff:192.168.0.112 GET /shophome/getKind?advertCode=HOME_SPECIAL_SPACE 200 9335ms
+[2018-04-20T15:47:43.378] [TRACE] request - lcq9b2g9 ::ffff:192.168.0.112 GET /server/getCookie 200 30ms
+[2018-04-20T15:47:43.531] [TRACE] request - icwd5466 ::ffff:192.168.0.112 GET /shophome/advertPosition?offset=0&limit=10&title=&status=2 200 62ms
+[2018-04-20T15:47:47.114] [TRACE] request - nayep4fc ::ffff:192.168.0.112 GET /server/getCookie 200 23ms
+[2018-04-20T15:47:47.312] [TRACE] request - o50xc5nq ::ffff:192.168.0.112 GET /shophome/getKind?advertCode=HOMT_ADVERTISING_SPACE_3 200 48ms
+[2018-04-20T15:47:47.317] [TRACE] request - cdoiqg7e ::ffff:192.168.0.112 GET /shophome/GetCmsProductRef?Code=HOMT_ADVERTISING_SPACE_3&offset=0&limit=10&title=&status=2 200 45ms
+[2018-04-20T15:47:49.766] [TRACE] request - buurkru1 ::ffff:192.168.0.112 GET /server/getCookie 200 11ms
+[2018-04-20T15:47:49.920] [TRACE] request - ltvjln2d ::ffff:192.168.0.112 GET /shophome/advertPosition?offset=0&limit=10&title=&status=2 200 40ms
+[2018-04-20T15:47:51.920] [TRACE] request - w6qtpfin ::ffff:192.168.0.112 GET /shophome/advertPosition?offset=10&limit=10&title=&status=2 200 25ms
+[2018-04-20T15:47:59.432] [TRACE] request - 3e9g6w00 ::ffff:192.168.0.112 GET /shophome/advertPosition?offset=0&limit=10&title=&status=2 200 2096ms

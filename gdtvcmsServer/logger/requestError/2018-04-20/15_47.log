@@ -1,0 +1,6 @@
+[2018-04-20T15:47:12.518] [ERROR] requestError - fdbsh6ou ::ffff:192.168.0.112 GET /server/getCookie 404 10004ms { TimeoutError: ResourceRequest timed out
+    at ResourceRequest._fireTimeout (D:\公司项目-新\gdtv_cms\balanceServer\node_modules\generic-pool\lib\ResourceRequest.js:58:17)
+    at Timeout.bound (D:\公司项目-新\gdtv_cms\balanceServer\node_modules\generic-pool\lib\ResourceRequest.js:8:15)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5) name: 'TimeoutError', headerSent: true }

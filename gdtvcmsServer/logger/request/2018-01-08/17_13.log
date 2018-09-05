@@ -1,0 +1,2 @@
+[2018-01-08T17:13:07.068] [TRACE] request - r5iwxw77 ::ffff:192.168.0.32 GET /server/Goodstatus?status=0&Id=1709 200 200ms
+[2018-01-08T17:13:08.797] [TRACE] request - 0iahjbkr ::ffff:192.168.0.32 GET /server/Goodstatus?status=0&Id=1728 200 42ms

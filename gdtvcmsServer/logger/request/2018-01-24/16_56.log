@@ -1,0 +1,44 @@
+[2018-01-24T16:56:05.405] [ERROR] requestError - klcf9lxk ::ffff:192.168.0.32 GET /articleinfo/addOne?param={%22productNo%22:%22011111492401%22,%22title%22:%22%E9%93%B6%E5%8D%8E%E8%85%8A%E5%91%B3%20%22,%22memo%22:%22%E9%A6%99%E5%91%B3%E9%86%87%E5%8E%9A%20%E7%9A%AE%E8%96%84%E6%9F%94%E5%AB%A9%22,%22sort%22:%2299%22,%22status%22:%221%22,%22url%22:%22https://gdtvshop.weixinmvp.com/Wap/Shop/productlist.aspx?categoryid=&keyword=%E9%93%B6%E5%8D%8E%E8%85%8A%E5%91%B3%22,%22relationCode%22:%22382%22,%22relationKind%22:%22article%22,%22kind%22:%22article%22} 404 2ms SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at ArticleInfoController.addOne (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\app\controller\articleinfo\articleinfo.js:175:30)
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\lib\router.js:345:16
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\lib\router.js:350:31)
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:42:32)
+    at next (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:43:18)
+    at views (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-views\src\index.js:55:12)
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:42:32)
+    at next (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:43:18)
+    at D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\heiner\middleware\heiner_body.js:113:16
+    at <anonymous>
+[2018-01-24T16:56:09.132] [TRACE] request - gxdd2sr2 ::ffff:192.168.0.32 GET /admin 200 1ms
+[2018-01-24T16:56:09.685] [TRACE] request - dijp9ust ::ffff:192.168.0.32 GET /server/getCookie 200 271ms
+[2018-01-24T16:56:09.921] [TRACE] request - hturubyl ::ffff:192.168.0.32 GET /articleinfo/GetCmsProductRef?Code=382&offset=0&limit=10&title=&status=2 200 90ms
+[2018-01-24T16:56:09.986] [TRACE] request - k8882ncy ::ffff:192.168.0.32 GET /articleinfo/GetOneSArticleInfo?RECID=382 200 155ms
+[2018-01-24T16:56:38.217] [ERROR] requestError - yoagauqb ::ffff:192.168.0.32 GET /articleinfo/addOne?param={%22productNo%22:%22011111492401%22,%22title%22:%22%E9%93%B6%E5%8D%8E%E8%85%8A%E5%91%B3%20%22,%22memo%22:%22%E9%A6%99%E5%91%B3%E9%86%87%E5%8E%9A%20%E7%9A%AE%E8%96%84%E6%9F%94%E5%AB%A9%22,%22sort%22:%2299%22,%22status%22:%221%22,%22url%22:%22https://gdtvshop.weixinmvp.com/Wap/Shop/productlist.aspx?categoryid=&keyword=%E9%93%B6%E5%8D%8E%E8%85%8A%E5%91%B3%22,%22relationCode%22:%22382%22,%22relationKind%22:%22article%22,%22kind%22:%22article%22} 404 0ms SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at ArticleInfoController.addOne (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\app\controller\articleinfo\articleinfo.js:175:30)
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\lib\router.js:345:16
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\lib\router.js:350:31)
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:42:32)
+    at next (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:43:18)
+    at views (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-views\src\index.js:55:12)
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:42:32)
+    at next (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:43:18)
+    at D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\heiner\middleware\heiner_body.js:113:16
+    at <anonymous>
+[2018-01-24T16:56:40.707] [TRACE] request - u7pi8b8c ::ffff:192.168.0.32 GET /admin 200 1ms
+[2018-01-24T16:56:41.036] [TRACE] request - wjf2anmg ::ffff:192.168.0.32 GET /server/getCookie 200 44ms
+[2018-01-24T16:56:41.266] [TRACE] request - jvum44gn ::ffff:192.168.0.32 GET /articleinfo/GetCmsProductRef?Code=382&offset=0&limit=10&title=&status=2 200 84ms
+[2018-01-24T16:56:41.308] [TRACE] request - ai3jjych ::ffff:192.168.0.32 GET /articleinfo/GetOneSArticleInfo?RECID=382 200 121ms
+[2018-01-24T16:56:46.943] [TRACE] request - dsuoqheo ::ffff:192.168.0.32 GET /admin 200 1ms
+[2018-01-24T16:56:47.063] [TRACE] request - evncrrv3 ::ffff:192.168.0.32 GET /server/getCookie 200 37ms
+[2018-01-24T16:56:47.230] [TRACE] request - n61yem8e ::ffff:192.168.0.32 GET /articleinfo/GetCmsProductRef?Code=382&offset=0&limit=10&title=&status=2 200 47ms
+[2018-01-24T16:56:47.260] [TRACE] request - rm9rcg15 ::ffff:192.168.0.32 GET /articleinfo/GetOneSArticleInfo?RECID=382 200 72ms

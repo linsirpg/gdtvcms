@@ -1,0 +1,5 @@
+[2018-05-04T18:43:48.305] [TRACE] request - 22b85fc9 ::ffff:192.168.0.112 GET / 302 7ms
+[2018-05-04T18:43:49.185] [TRACE] request - k2l9j6mk ::ffff:192.168.0.112 GET /server/getCookie 200 50ms
+[2018-05-04T18:43:49.273] [TRACE] request - ttrnodfs ::ffff:192.168.0.112 GET /favicon.ico 404 1ms
+[2018-05-04T18:43:49.445] [TRACE] request - a0u5g82r ::ffff:192.168.0.112 GET /favicon.ico 404 0ms
+[2018-05-04T18:43:49.460] [TRACE] request - u04x2c2q ::ffff:192.168.0.112 GET /server/GetSpecialSubjectPagination?offset=0&limit=10&title=&Status=2 200 29ms

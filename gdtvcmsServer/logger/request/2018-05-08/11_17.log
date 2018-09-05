@@ -1,0 +1,3 @@
+[2018-05-08T11:17:11.377] [TRACE] request - k5twm7tm ::ffff:127.0.0.1 GET /server/getCookie 200 463ms
+[2018-05-08T11:17:11.775] [TRACE] request - vavp4nnd ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=HOME_BANNER 200 155ms
+[2018-05-08T11:17:12.040] [TRACE] request - goqnvlte ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=HOME_BANNER&offset=0&limit=10&title=&status=2 200 410ms

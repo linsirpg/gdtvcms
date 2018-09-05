@@ -1,0 +1,17 @@
+[2018-04-19T19:00:01.985] [TRACE] request - femxo5f1 ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=HOME_NEW_PRODUCT 200 12ms
+[2018-04-19T19:00:01.993] [TRACE] request - pyy7t4mr ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=HOME_NEW_PRODUCT&offset=0&limit=10&title=&status=2 200 18ms
+[2018-04-19T19:00:13.485] [TRACE] request - mdq86iqd ::ffff:127.0.0.1 POST /server/file 200 58ms
+[2018-04-19T19:00:13.539] [TRACE] request - 099cat9e ::ffff:192.168.0.112 GET /images/20180419/upload_df1226705cc5794651a4e950a6788880.jpg 200 1ms
+[2018-04-19T19:00:14.816] [TRACE] request - j2tti6ne ::ffff:127.0.0.1 POST /shophome/update 200 10ms
+[2018-04-19T19:00:19.397] [TRACE] request - qpvj717l ::ffff:127.0.0.1 POST /shophome/update 200 9ms
+[2018-04-19T19:00:23.975] [TRACE] request - 65x1dtml ::ffff:127.0.0.1 POST /shophome/update 200 9ms
+[2018-04-19T19:00:29.949] [TRACE] request - jen6hu8t ::ffff:127.0.0.1 GET /server/getCookie 200 6ms
+[2018-04-19T19:00:30.050] [TRACE] request - q4fa45oi ::ffff:127.0.0.1 GET /shophome/advertPosition?offset=0&limit=10&title=&status=2 200 15ms
+[2018-04-19T19:00:32.822] [TRACE] request - j49x1vyr ::ffff:127.0.0.1 GET /shophome/advertPosition?offset=20&limit=10&title=&status=2 200 12ms
+[2018-04-19T19:00:39.690] [TRACE] request - cwiweor5 ::ffff:127.0.0.1 GET /server/getCookie 200 6ms
+[2018-04-19T19:00:39.951] [TRACE] request - 0hujgb53 ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=JYDQ_HOTRECOMMEND_VERTICAL 200 21ms
+[2018-04-19T19:00:39.965] [TRACE] request - s0xkrfn8 ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=JYDQ_HOTRECOMMEND_VERTICAL&offset=0&limit=10&title=&status=2 200 31ms
+[2018-04-19T19:00:50.367] [TRACE] request - wcgiqtmc ::ffff:127.0.0.1 POST /server/file 200 102ms
+[2018-04-19T19:00:50.410] [TRACE] request - eapwb9x0 ::ffff:192.168.0.112 GET /images/20180419/upload_2b468955596a9bc50aa494187e1e53a1.jpg 200 0ms
+[2018-04-19T19:00:52.326] [TRACE] request - 4yvsahee ::ffff:127.0.0.1 POST /shophome/addOne 200 7ms
+[2018-04-19T19:00:56.655] [TRACE] request - whaboe83 ::ffff:127.0.0.1 POST /shophome/update 200 8ms

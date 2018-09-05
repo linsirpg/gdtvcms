@@ -1,0 +1,6 @@
+[2018-04-19T19:11:20.614] [TRACE] request - xjyr4n96 ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=JYDQ_HOTRECOMMEND_VERTICAL 200 28ms
+[2018-04-19T19:11:20.625] [TRACE] request - xtde3s2w ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=JYDQ_HOTRECOMMEND_VERTICAL&offset=0&limit=10&title=&status=2 200 36ms
+[2018-04-19T19:11:29.867] [TRACE] request - gtdvn72n ::ffff:127.0.0.1 POST /server/file 200 63ms
+[2018-04-19T19:11:29.931] [TRACE] request - 67kng9qp ::ffff:192.168.0.112 GET /images/20180419/upload_444df95fcf25850728bb2a0ff51f8807.jpg 200 2ms
+[2018-04-19T19:11:31.502] [TRACE] request - nqw8ji7v ::ffff:127.0.0.1 POST /shophome/addOne 200 9ms
+[2018-04-19T19:11:45.121] [TRACE] request - lvl8gter ::ffff:127.0.0.1 POST /shophome/update 200 13ms

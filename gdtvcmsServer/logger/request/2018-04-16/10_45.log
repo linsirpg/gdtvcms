@@ -1,0 +1,10 @@
+[2018-04-16T10:45:16.682] [TRACE] request - rrgvytpb ::ffff:192.168.0.112 GET /admin 200 1ms
+[2018-04-16T10:45:17.121] [TRACE] request - upry4tlf ::ffff:192.168.0.112 GET /server/getCookie 200 13ms
+[2018-04-16T10:45:17.370] [TRACE] request - vnw2ckl4 ::ffff:192.168.0.112 GET /shophome/getKind?advertCode=HOME_BANNER 200 38ms
+[2018-04-16T10:45:17.381] [TRACE] request - 4eyvxgyh ::ffff:192.168.0.112 GET /shophome/GetCmsProductRef?Code=HOME_BANNER&offset=0&limit=10&title=&status=2 200 44ms
+[2018-04-16T10:45:18.746] [TRACE] request - h67ax3n6 ::ffff:192.168.0.112 GET /admin 200 1ms
+[2018-04-16T10:45:19.562] [TRACE] request - 0elwpfgf ::ffff:192.168.0.112 GET /server/getCookie 200 13ms
+[2018-04-16T10:45:38.208] [TRACE] request - 1t0tp77r ::ffff:192.168.0.112 GET /server/getCookie 200 37ms
+[2018-04-16T10:45:38.437] [TRACE] request - cyeha21d ::ffff:192.168.0.112 GET /favicon.ico 404 1ms
+[2018-04-16T10:45:38.659] [TRACE] request - jery5rk1 ::ffff:192.168.0.112 GET /shophome/getKind?advertCode=HOME_BANNER 200 15ms
+[2018-04-16T10:45:38.673] [TRACE] request - rp57xb3j ::ffff:192.168.0.112 GET /shophome/GetCmsProductRef?Code=HOME_BANNER&offset=0&limit=10&title=&status=2 200 24ms

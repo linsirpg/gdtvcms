@@ -1,0 +1,36 @@
+[2018-04-16T10:59:02.670] [ERROR] requestError - 3phxum45 ::1 GET /server/getCookie 404 8961ms { SequelizeConnectionError: connect ECONNABORTED 192.168.0.101:3306
+    at Utils.Promise.tap.then.catch.err (D:\公司项目-新\gdtv_cms\balanceServer\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:149:19)
+    at tryCatcher (D:\公司项目-新\gdtv_cms\balanceServer\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (D:\公司项目-新\gdtv_cms\balanceServer\node_modules\bluebird\js\release\promise.js:512:31)
+    at Promise._settlePromise (D:\公司项目-新\gdtv_cms\balanceServer\node_modules\bluebird\js\release\promise.js:569:18)
+    at Promise._settlePromise0 (D:\公司项目-新\gdtv_cms\balanceServer\node_modules\bluebird\js\release\promise.js:614:10)
+    at Promise._settlePromises (D:\公司项目-新\gdtv_cms\balanceServer\node_modules\bluebird\js\release\promise.js:689:18)
+    at Async._drainQueue (D:\公司项目-新\gdtv_cms\balanceServer\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (D:\公司项目-新\gdtv_cms\balanceServer\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (D:\公司项目-新\gdtv_cms\balanceServer\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)
+  name: 'SequelizeConnectionError',
+  parent: 
+   { Error: connect ECONNABORTED 192.168.0.101:3306
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+     code: 'ECONNABORTED',
+     errno: 'ECONNABORTED',
+     syscall: 'connect',
+     address: '192.168.0.101',
+     port: 3306,
+     fatal: true },
+  original: 
+   { Error: connect ECONNABORTED 192.168.0.101:3306
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+     code: 'ECONNABORTED',
+     errno: 'ECONNABORTED',
+     syscall: 'connect',
+     address: '192.168.0.101',
+     port: 3306,
+     fatal: true } }

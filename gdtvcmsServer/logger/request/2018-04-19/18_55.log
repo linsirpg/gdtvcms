@@ -1,0 +1,2 @@
+[2018-04-19T18:55:57.786] [TRACE] request - 5t7oehiq ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=HOME_NEW_PRODUCT 200 28ms
+[2018-04-19T18:55:57.793] [TRACE] request - dwohdh7v ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=HOME_NEW_PRODUCT&offset=0&limit=10&title=&status=2 200 33ms

@@ -1,0 +1,3 @@
+[2018-04-19T18:40:12.471] [TRACE] request - yl00xl3t ::ffff:127.0.0.1 GET /server/getCookie 200 8ms
+[2018-04-19T18:40:12.905] [TRACE] request - x5njexgx ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=HOME_HOT 200 31ms
+[2018-04-19T18:40:12.914] [TRACE] request - iwr25j4o ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=HOME_HOT&offset=0&limit=10&title=&status=2 200 38ms

@@ -1,0 +1,11 @@
+[2018-05-08T11:27:14.014] [TRACE] request - 11wxo46a ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=MS_CATEGORY&offset=0&limit=10&title=&status=2 200 132ms
+[2018-05-08T11:27:17.885] [TRACE] request - bcorlrrk ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=MS_CATEGORY&offset=10&limit=10&title=&status=2 200 102ms
+[2018-05-08T11:27:19.307] [TRACE] request - a8mbginw ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=MS_CATEGORY&offset=0&limit=10&title=&status=2 200 28ms
+[2018-05-08T11:27:29.333] [TRACE] request - xisuhgig ::ffff:127.0.0.1 GET /server/getCookie 200 9ms
+[2018-05-08T11:27:29.562] [TRACE] request - 1e3f689u ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=MS_GOOD_GOODS 200 28ms
+[2018-05-08T11:27:29.577] [TRACE] request - x9s6hs0j ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=MS_GOOD_GOODS&offset=0&limit=10&title=&status=2 200 41ms
+[2018-05-08T11:27:32.222] [TRACE] request - c3o0qc1k ::ffff:127.0.0.1 GET /shophome/advertPosition?offset=10&limit=10&title=%E7%BE%8E%E9%A3%9F&status=2 200 13ms
+[2018-05-08T11:27:34.188] [TRACE] request - g4hr5h0x ::ffff:127.0.0.1 GET /server/getCookie 200 9ms
+[2018-05-08T11:27:34.569] [TRACE] request - lrb2pw5d ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=MS_HOTPRODUCT&offset=0&limit=10&title=&status=2 200 87ms
+[2018-05-08T11:27:34.637] [TRACE] request - boarbsav ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=MS_HOTPRODUCT 200 57ms
+[2018-05-08T11:27:52.703] [TRACE] request - a994kgw6 ::ffff:127.0.0.1 GET /api/getProductInfo?search=%E7%89%9B%E8%82%89%E4%B8%B8&offset=0&limit=4 200 223ms

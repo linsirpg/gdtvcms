@@ -1,0 +1,9 @@
+[2018-04-19T18:21:07.148] [TRACE] request - 923lmrgu ::ffff:127.0.0.1 GET /server/getCookie 200 11ms
+[2018-04-19T18:21:07.489] [TRACE] request - lqw9v2kw ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=HOME_HOT 200 13ms
+[2018-04-19T18:21:07.515] [TRACE] request - 9tusx5jt ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=HOME_HOT&offset=0&limit=10&title=&status=2 200 17ms
+[2018-04-19T18:21:22.970] [TRACE] request - noif7vcd ::ffff:127.0.0.1 POST /shophome/update 200 9ms
+[2018-04-19T18:21:27.499] [TRACE] request - 7vhvdpf0 ::ffff:127.0.0.1 POST /shophome/update 200 19ms
+[2018-04-19T18:21:30.401] [TRACE] request - cbov2897 ::ffff:127.0.0.1 GET /server/getCookie 200 9ms
+[2018-04-19T18:21:30.597] [TRACE] request - 8it2wst7 ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=HOME_HOT 200 12ms
+[2018-04-19T18:21:30.631] [TRACE] request - evbrdi6w ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=HOME_HOT&offset=0&limit=10&title=&status=2 200 24ms
+[2018-04-19T18:21:35.974] [TRACE] request - 4pu98ajf ::ffff:127.0.0.1 POST /shophome/update 200 8ms

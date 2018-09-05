@@ -1,0 +1,2 @@
+[2018-05-04T14:23:15.835] [TRACE] request - 6fi60d4q ::ffff:192.168.0.112 GET /help 404 4ms
+[2018-05-04T14:23:30.372] [TRACE] request - ljht5bpt ::ffff:192.168.0.112 GET /help 404 1ms

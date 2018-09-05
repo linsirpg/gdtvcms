@@ -1,0 +1,10 @@
+[2018-04-19T18:56:00.431] [TRACE] request - ihxh0ty0 ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=HOME_NEW_PRODUCT 200 13ms
+[2018-04-19T18:56:00.450] [TRACE] request - lcwg46ai ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=HOME_NEW_PRODUCT&offset=0&limit=10&title=&status=2 200 30ms
+[2018-04-19T18:56:01.583] [TRACE] request - 6c6feq5d ::ffff:127.0.0.1 GET /server/getCookie 200 9ms
+[2018-04-19T18:56:01.856] [TRACE] request - hq37xceu ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=HOME_NEW_PRODUCT 200 13ms
+[2018-04-19T18:56:01.921] [TRACE] request - 0lu1vp3n ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=HOME_NEW_PRODUCT&offset=0&limit=10&title=&status=2 200 71ms
+[2018-04-19T18:56:04.005] [TRACE] request - 2h7ekguy ::ffff:127.0.0.1 GET /shophome/deleteOne?RECID=1155 200 15ms
+[2018-04-19T18:56:14.229] [TRACE] request - ie9xaeug ::ffff:127.0.0.1 POST /server/file 200 74ms
+[2018-04-19T18:56:14.300] [TRACE] request - oyyan05c ::ffff:192.168.0.112 GET /images/20180419/upload_52964543c64a448653d006227829a107.jpg 200 1ms
+[2018-04-19T18:56:15.504] [TRACE] request - ac7dvd6h ::ffff:127.0.0.1 POST /shophome/addOne 200 8ms
+[2018-04-19T18:56:20.155] [TRACE] request - 269bj6bm ::ffff:127.0.0.1 POST /shophome/update 200 8ms

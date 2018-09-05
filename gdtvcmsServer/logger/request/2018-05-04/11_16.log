@@ -1,0 +1,16 @@
+[2018-05-04T11:16:10.356] [TRACE] request - 0xmgrxxi ::ffff:127.0.0.1 GET /server/getCookie 200 29ms
+[2018-05-04T11:16:10.590] [TRACE] request - iaf0u90f ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=HOME_BANNER 200 22ms
+[2018-05-04T11:16:10.614] [TRACE] request - mfp16eqi ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=HOME_BANNER&offset=0&limit=10&title=&status=2 200 46ms
+[2018-05-04T11:16:34.695] [TRACE] request - j0akjmt7 ::ffff:127.0.0.1 GET /server/getCookie 200 7ms
+[2018-05-04T11:16:35.063] [TRACE] request - tm6huadw ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=HOME_BANNER 200 14ms
+[2018-05-04T11:16:35.079] [TRACE] request - rhvwox0j ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=HOME_BANNER&offset=0&limit=10&title=&status=2 200 25ms
+[2018-05-04T11:16:45.383] [TRACE] request - lowxjrle ::ffff:127.0.0.1 GET /server/getCookie 200 8ms
+[2018-05-04T11:16:45.649] [TRACE] request - v2snas70 ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=HOME_BANNER 200 15ms
+[2018-05-04T11:16:45.662] [TRACE] request - yqascpdl ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=HOME_BANNER&offset=0&limit=10&title=&status=2 200 23ms
+[2018-05-04T11:16:52.565] [TRACE] request - rp4hvytg ::ffff:127.0.0.1 GET /server/getCookie 200 7ms
+[2018-05-04T11:16:52.684] [TRACE] request - 485fuv3r ::ffff:127.0.0.1 GET /shophome/advertPosition?offset=0&limit=10&title=&status=2 200 10ms
+[2018-05-04T11:16:54.375] [TRACE] request - kf19knb8 ::ffff:127.0.0.1 GET /server/getCookie 200 8ms
+[2018-05-04T11:16:54.583] [TRACE] request - mtwiiyg2 ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=HOMT_ADVERTISING_SPACE_1 200 11ms
+[2018-05-04T11:16:54.592] [TRACE] request - b1htpcvq ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=HOMT_ADVERTISING_SPACE_1&offset=0&limit=10&title=&status=2 200 18ms
+[2018-05-04T11:16:59.299] [TRACE] request - 0kcul81u ::ffff:127.0.0.1 GET /server/getCookie 200 10ms
+[2018-05-04T11:16:59.439] [TRACE] request - xip5aqy6 ::ffff:127.0.0.1 GET /server/GetSpecialSubjectPagination?offset=0&limit=10&title=&Status=2 200 23ms

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <title>App测试接口</title>
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/4.0.0-beta/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.bootcss.com/toastr.js/latest/toastr.min.css">
+    <link rel="stylesheet" href="https://cdn.bootcss.com/jsoneditor/5.9.6/jsoneditor.min.css">
+    <style type="text/css" media="screen">
+        #app {
+            padding: 15px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="card mb-3">
+                        <div class="card-header text-white bg-info">Request</div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="form-group col-12">
+                                    <label class="col-form-label">URL</label>
+                                    <select id="req-url" class="custom-select d-block" required>
+                                    </select>
+                                </div>
+                                <div class="form-group col-12">
+                                    <label class="col-form-label">Data</label>
+                                    <div id="req-data" style="height:20rem;"></div>
+                                </div>
+                                <div class="form-group col-12">
+                                    <button id="req-submit" type="button" class="btn btn-primary">提交</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="card mb-3">
+                        <div class="card-header text-white bg-success">Response</div>
+                        <div class="card-body p-0">
+                            <div id="res-body" style="height:34.8rem;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.bootcss.com/jsoneditor/5.9.6/jsoneditor.min.js"></script>
+    <script type="text/javascript" src="https://cdn.bootcss.com/toastr.js/latest/toastr.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+
+            toastr.options = {
+                closeButton: true,
+                progressBar: true,
+                newestOnTop: true
+            }
+
+            var $reqUrl = $('#req-url');
+            var $reqSubmit = $('#req-submit');
+            var $reqData = new JSONEditor($('#req-data')[0], {
+                history: true,
+                mode: 'code',
+                modes: ['tree', 'code'],
+                name: 'data',
+                search: true,
+                indentation: 4,
+            });
+            var $resBody = new JSONEditor($('#res-body')[0], {
+                history: true,
+                mode: 'view',
+                modes: ['view', 'code'],
+                name: 'body',
+                search: true,
+                indentation: 4,
+            });
+
+            $.ajax({
+                url: '/api/test/routerList',
+                type: 'post',
+                dataType: 'json',
+                success: function (res) {
+                    for (let i = 0; i < res.data.length; i++) {
+                        $reqUrl.append('<option value="/api' + res.data[i].url + '">' + res.data[i].url + '&nbsp;&nbsp;&nbsp;&nbsp;(&nbsp;'  + res.data[i].remark + '&nbsp;)</option>')
+                    }
+                },
+                error: function (err) {
+                    toastr.error(err.responseText, err.status);
+                }
+            });
+
+            $reqSubmit.click(function () {
+                var url = $reqUrl.val();
+                var data = $reqData.get();
+                $resBody.set({});
+                $.ajax
+                $.ajax({
+                    url: url,
+                    type: 'post',
+                    dataType: 'json',
+                    data: data,
+                    success: function (res) {
+                        $resBody.set(res);
+                        $resBody.expandAll && $resBody.expandAll();
+                    },
+                    error: function (err) {
+                        toastr.error(err.responseText, err.status);
+                    }
+                });
+            });
+
+        });
+    </script>
+</body>
+
+</html>

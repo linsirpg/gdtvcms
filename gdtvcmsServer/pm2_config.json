@@ -1,0 +1,24 @@
+{
+  "name": "gdtv_cms",
+  "script": "./index.js",
+  "cwd": "./",
+  "watch": true,
+  "ignore_watch": [
+    ".cmd",
+    ".git",
+    "node_modules",
+    "logger",
+    "app/public",
+    "uploadFile",
+    "logger"
+  ],
+  "watch_options": {
+    "followSymlinks": false
+  },
+  "error_file": "./logger/pm2_err.log",
+  "out_file": "./logger/pm2_out.log",
+  "env": {
+    "NODE_ENV": "build"
+  }
+}
+

@@ -1,0 +1,3285 @@
+添加商品
+
+http://192.168.0.32:3000
+
+http://192.168.0.32:3000
+添加商品
+
+http://192.168.0.32:3000
+
+http://192.168.0.32:3000
+添加商品
+
+http://192.168.0.32:3000
+添加商品
+
+http://192.168.0.32:3000
+
+http://192.168.0.32:3000
+添加商品
+添加商品
+添加商品
+
+http://192.168.0.32:3000
+添加商品
+添加商品
+
+http://192.168.0.32:3000
+添加商品
+添加商品
+添加商品
+添加商品
+添加商品
+添加商品
+
+http://192.168.0.32:3000
+添加商品
+
+http://192.168.0.32:3000
+添加商品
+添加商品
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取专题数据
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+修改单条商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+修改单条商品
+修改单条商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+修改单条商品
+分页获取code对应的商品
+
+http://localhost:3000
+获取单条专题数据
+分页获取code对应的商品
+
+http://localhost:3000
+获取单条专题数据
+分页获取code对应的商品
+
+http://localhost:3000
+获取单条专题数据
+分页获取code对应的商品
+
+http://localhost:3000
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+获取专题数据
+获取专题数据
+获取专题数据
+获取专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+修改单条商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取专题数据
+获取专题数据
+获取专题数据
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取专题数据
+{ offset: '0', limit: '10', title: '', status: '2' }
+{ where: { TITLE: { '$like': '%%' } },
+  order: [ [ 'RECID', 'DESC' ] ],
+  limit: 10,
+  offset: 0 }
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取专题数据
+获取专题数据
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+
+http://192.168.0.32:3000
+获取单条专题数据
+分页获取code对应的商品
+
+http://192.168.0.32:3000
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+
+http://192.168.0.32:3000
+获取单条专题数据
+分页获取code对应的商品
+
+http://192.168.0.32:3000
+获取单条专题数据
+分页获取code对应的商品
+
+http://192.168.0.32:3000
+获取单条专题数据
+分页获取code对应的商品
+
+http://192.168.0.32:3000
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+获取专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+修改单条商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+修改单条商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+获取专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+修改单条商品
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+分页获取code对应的商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+分页获取code对应的商品
+分页获取code对应的商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+分页获取code对应的商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+分页获取code对应的商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+分页获取code对应的商品
+修改单条商品
+修改单条商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+分页获取code对应的商品
+修改单条商品
+修改单条商品
+分页获取code对应的商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+
+http://192.168.0.32:3000
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+添加单条商品
+分页获取code对应的商品
+分页获取code对应的商品
+修改单条商品
+修改单条商品
+添加单条商品
+分页获取code对应的商品
+添加单条商品
+分页获取code对应的商品
+添加单条商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+添加单条商品
+分页获取code对应的商品
+添加单条商品
+分页获取code对应的商品
+添加单条商品
+分页获取code对应的商品
+添加单条商品
+分页获取code对应的商品
+添加单条商品
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+添加单条商品
+分页获取code对应的商品
+添加单条商品
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取专题数据
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+获取专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+分页获取code对应的商品
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+获取单条专题数据
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+修改单条商品
+获取单条专题数据
+分页获取code对应的商品
+分页获取code对应的商品
+获取专题数据
+获取专题数据
+{ offset: '0', limit: '10', title: '', status: '2' }
+{ where: { TITLE: { '$like': '%%' } },
+  order: [ [ 'RECID', 'DESC' ] ],
+  limit: 10,
+  offset: 0 }
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+获取专题数据
+{ offset: '0', limit: '10', title: '', status: '2' }
+{ where: { TITLE: { '$like': '%%' } },
+  order: [ [ 'RECID', 'DESC' ] ],
+  limit: 10,
+  offset: 0 }
+获取专题数据
+{ offset: '0', limit: '10', title: '', status: '2' }
+{ where: { TITLE: { '$like': '%%' } },
+  order: [ [ 'RECID', 'DESC' ] ],
+  limit: 10,
+  offset: 0 }
+获取专题数据
+获取单条专题数据
+获取单条专题数据
+{ offset: '0', limit: '10', title: '', status: '2' }
+{ where: { TITLE: { '$like': '%%' } },
+  order: [ [ 'RECID', 'DESC' ] ],
+  limit: 10,
+  offset: 0 }
+{ offset: '0', limit: '10', title: '', status: '2' }
+{ where: { TITLE: { '$like': '%%' } },
+  order: [ [ 'RECID', 'DESC' ] ],
+  limit: 10,
+  offset: 0 }
+获取专题数据
+{ offset: '0', limit: '10', title: '', status: '2', kind: '' }
+{ offset: '0', limit: '10', title: '', status: '2', kind: '' }
+{ offset: '0', limit: '10', title: '', status: '2' }
+{ where: { TITLE: { '$like': '%%' } },
+  order: [ [ 'RECID', 'DESC' ] ],
+  limit: 10,
+  offset: 0 }
+{ offset: '0', limit: '10', title: '', status: '2' }
+{ where: { TITLE: { '$like': '%%' } },
+  order: [ [ 'RECID', 'DESC' ] ],
+  limit: 10,
+  offset: 0 }
+获取专题数据
+获取专题数据
+{ offset: '0', limit: '10', title: '', status: '2' }
+{ where: { TITLE: { '$like': '%%' } },
+  order: [ [ 'RECID', 'DESC' ] ],
+  limit: 10,
+  offset: 0 }
+{ offset: '0', limit: '10', title: '', status: '2' }
+{ where: { TITLE: { '$like': '%%' } },
+  order: [ [ 'RECID', 'DESC' ] ],
+  limit: 10,
+  offset: 0 }
+获取专题数据
+获取专题数据
+获取专题数据
+{ offset: '0', limit: '10', title: '', status: '2', kind: '' }
+{ offset: '0', limit: '10', title: '', status: '2', kind: '' }
+{ offset: '0', limit: '10', title: '', status: '2' }
+{ where: { TITLE: { '$like': '%%' } },
+  order: [ [ 'RECID', 'DESC' ] ],
+  limit: 10,
+  offset: 0 }
+{ offset: '0', limit: '10', title: '', status: '2', kind: '' }
+{ offset: '0', limit: '10', title: '', status: '2', kind: '' }
+{ offset: '0', limit: '10', title: '', status: '2' }
+{ where: { TITLE: { '$like': '%%' } },
+  order: [ [ 'RECID', 'DESC' ] ],
+  limit: 10,
+  offset: 0 }
+{ offset: '0', limit: '10', title: '', status: '2' }
+{ where: { TITLE: { '$like': '%%' } },
+  order: [ [ 'RECID', 'DESC' ] ],
+  limit: 10,
+  offset: 0 }
+获取专题数据
+获取专题数据
+获取专题数据
+获取专题数据
+获取专题数据
+获取专题数据
+{ offset: '0', limit: '10', title: '', status: '2', kind: '' }
+{ offset: '0', limit: '10', title: '', status: '2', kind: '' }
+{ offset: '0', limit: '10', title: '', status: '2', kind: '' }
+{ offset: '0', limit: '10', title: '', status: '2', kind: '' }
+获取专题数据
+{ offset: '0', limit: '10', title: '', status: '2', kind: '' }
+{ offset: '0', limit: '10', title: '', status: '2', kind: '' }
+{ offset: '0', limit: '10', title: '', status: '2', kind: '' }
+{ offset: '0', limit: '10', title: '', status: '2', kind: '' }
+获取专题数据
+获取专题数据
+{ offset: '0', limit: '10', title: '', status: '2', kind: '' }
+{ offset: '0', limit: '10', title: '', status: '2', kind: '' }
+{ offset: '0', limit: '10', title: '', status: '2' }
+{ where: { TITLE: { '$like': '%%' } },
+  order: [ [ 'RECID', 'DESC' ] ],
+  limit: 10,
+  offset: 0 }
+running
+running
+running
+running
+running
+D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\uploadFile\upload_422e0ef63a243cfa31a514dba862e009
+running
+running
+D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\uploadFile\upload_b41576f5e5c3b3213ef3dd9f47b1d42a
+running
+D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\uploadFile\upload_80e6d7e85c9fefb63a20f7cfbd478b33
+running
+running
+running
+D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\uploadFile\upload_5c48550020a1658e488f38c62e146112
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+running
+{ count: 5,
+  rows: 
+   [ cmsAdvertInfo {
+       dataValues: [Object],
+       _previousDataValues: [Object],
+       _changed: {},
+       _modelOptions: [Object],
+       _options: [Object],
+       __eagerlyLoadedAssociations: [],
+       isNewRecord: false },
+     cmsAdvertInfo {
+       dataValues: [Object],
+       _previousDataValues: [Object],
+       _changed: {},
+       _modelOptions: [Object],
+       _options: [Object],
+       __eagerlyLoadedAssociations: [],
+       isNewRecord: false },
+     cmsAdvertInfo {
+       dataValues: [Object],
+       _previousDataValues: [Object],
+       _changed: {},
+       _modelOptions: [Object],
+       _options: [Object],
+       __eagerlyLoadedAssociations: [],
+       isNewRecord: false },
+     cmsAdvertInfo {
+       dataValues: [Object],
+       _previousDataValues: [Object],
+       _changed: {},
+       _modelOptions: [Object],
+       _options: [Object],
+       __eagerlyLoadedAssociations: [],
+       isNewRecord: false },
+     cmsAdvertInfo {
+       dataValues: [Object],
+       _previousDataValues: [Object],
+       _changed: {},
+       _modelOptions: [Object],
+       _options: [Object],
+       __eagerlyLoadedAssociations: [],
+       isNewRecord: false } ] }
+running
+cms_tag_info {
+  dataValues: 
+   { RECID: 25,
+     TITLE: '凤凰单丛茶【满500减50】专场',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=208\' data-ajax="false">点击进入凤凰单丛茶【满500减50】专场</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T09:00:00.000Z,
+     END_TIME: 2018-02-08T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _previousDataValues: 
+   { RECID: 25,
+     TITLE: '凤凰单丛茶【满500减50】专场',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=208\' data-ajax="false">点击进入凤凰单丛茶【满500减50】专场</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T09:00:00.000Z,
+     END_TIME: 2018-02-08T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 26,
+     TITLE: '醉茗居专场',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=207\' style="color:#f00;text-decoration: underline;" data-ajax="false">【点击进入醉茗居专场】</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-08T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _previousDataValues: 
+   { RECID: 26,
+     TITLE: '醉茗居专场',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=207\' style="color:#f00;text-decoration: underline;" data-ajax="false">【点击进入醉茗居专场】</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-08T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 27,
+     TITLE: '紫晶枣年货物流1',
+     CONTENT: '<span style="color:#f00">受北方的快递公司春节前停止收件影响，2月8日停止发货，2月6日—2月22日期间的订单将会安排在2月23日统一发货，2月6日—2月22日这段期间只接单、不发货。敬请谅解</span>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-22T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _previousDataValues: 
+   { RECID: 27,
+     TITLE: '紫晶枣年货物流1',
+     CONTENT: '<span style="color:#f00">受北方的快递公司春节前停止收件影响，2月8日停止发货，2月6日—2月22日期间的订单将会安排在2月23日统一发货，2月6日—2月22日这段期间只接单、不发货。敬请谅解</span>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-22T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 28,
+     TITLE: '赣南脐橙年货物流111',
+     CONTENT: '<span style="color:#f00">春节期间：2月13号-2月25号暂停发货，带来不便敬请谅解。</span>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-25T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '01' },
+  _previousDataValues: 
+   { RECID: 28,
+     TITLE: '赣南脐橙年货物流111',
+     CONTENT: '<span style="color:#f00">春节期间：2月13号-2月25号暂停发货，带来不便敬请谅解。</span>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-25T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '01' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 29,
+     TITLE: '清洁膏年货物流',
+     CONTENT: '<span style="color:#f00">2018年春节期间收发货安排：2月3日停止发货，节后2月23日开始正常发货。2月4日至2月22日期间不发货也不接受退换货，有退换货需求等节后再做处理，期间仓库休假不方便接收，带来不便敬请谅解！</span>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-22T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '01' },
+  _previousDataValues: 
+   { RECID: 29,
+     TITLE: '清洁膏年货物流',
+     CONTENT: '<span style="color:#f00">2018年春节期间收发货安排：2月3日停止发货，节后2月23日开始正常发货。2月4日至2月22日期间不发货也不接受退换货，有退换货需求等节后再做处理，期间仓库休假不方便接收，带来不便敬请谅解！</span>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-22T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '01' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 30,
+     TITLE: '瑶鸡年货物流',
+     CONTENT: '<span style="color:#f00">春节期间：2月8号停止发货，敬请谅解。</span>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-22T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '01' },
+  _previousDataValues: 
+   { RECID: 30,
+     TITLE: '瑶鸡年货物流',
+     CONTENT: '<span style="color:#f00">春节期间：2月8号停止发货，敬请谅解。</span>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-22T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '01' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 22,
+     TITLE: '人参专场1',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=210\' style="color:#f00;text-decoration: underline;" data-ajax="false">【点击进入人参专场】</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T00:00:00.000Z,
+     END_TIME: 2018-02-08T00:00:00.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '12' },
+  _previousDataValues: 
+   { RECID: 22,
+     TITLE: '人参专场1',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=210\' style="color:#f00;text-decoration: underline;" data-ajax="false">【点击进入人参专场】</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T00:00:00.000Z,
+     END_TIME: 2018-02-08T00:00:00.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '12' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 23,
+     TITLE: '潮汕丸子套餐',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=192\'  style="color:#f00;text-decoration: underline;" data-ajax="false">【点击进入潮汕丸子套餐专场】</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T00:00:00.000Z,
+     END_TIME: 2018-02-07T23:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _previousDataValues: 
+   { RECID: 23,
+     TITLE: '潮汕丸子套餐',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=192\'  style="color:#f00;text-decoration: underline;" data-ajax="false">【点击进入潮汕丸子套餐专场】</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T00:00:00.000Z,
+     END_TIME: 2018-02-07T23:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 24,
+     TITLE: '凉茶专场',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=209 \' style="color:#f00;text-decoration: underline;" data-ajax="false">【点击进入凉茶专场】</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-30T16:00:00.000Z,
+     END_TIME: 2018-02-07T15:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _previousDataValues: 
+   { RECID: 24,
+     TITLE: '凉茶专场',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=209 \' style="color:#f00;text-decoration: underline;" data-ajax="false">【点击进入凉茶专场】</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-30T16:00:00.000Z,
+     END_TIME: 2018-02-07T15:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 18,
+     TITLE: '产品名前年货节图标',
+     CONTENT: null,
+     IMAGE_URL: '[{"FileId":0,"FilePath":"/images/20180129/upload_88b015949e25c288e138130a16393a27.jpg","FileName":null,"FileExt":"jpg","SplitList":null,"ServerUrl":"http://cmsuser.weixinmvp.com"}]',
+     URL: null,
+     START_TIME: 2018-01-29T07:27:29.000Z,
+     END_TIME: 2018-02-08T23:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'RODUCT_NAME_BEFORE',
+     SORT: '99' },
+  _previousDataValues: 
+   { RECID: 18,
+     TITLE: '产品名前年货节图标',
+     CONTENT: null,
+     IMAGE_URL: '[{"FileId":0,"FilePath":"/images/20180129/upload_88b015949e25c288e138130a16393a27.jpg","FileName":null,"FileExt":"jpg","SplitList":null,"ServerUrl":"http://cmsuser.weixinmvp.com"}]',
+     URL: null,
+     START_TIME: 2018-01-29T07:27:29.000Z,
+     END_TIME: 2018-02-08T23:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'RODUCT_NAME_BEFORE',
+     SORT: '99' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 25,
+     TITLE: '凤凰单丛茶【满500减50】专场',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=208\' data-ajax="false">点击进入凤凰单丛茶【满500减50】专场</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T09:00:00.000Z,
+     END_TIME: 2018-02-08T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _previousDataValues: 
+   { RECID: 25,
+     TITLE: '凤凰单丛茶【满500减50】专场',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=208\' data-ajax="false">点击进入凤凰单丛茶【满500减50】专场</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T09:00:00.000Z,
+     END_TIME: 2018-02-08T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 26,
+     TITLE: '醉茗居专场',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=207\' style="color:#f00;text-decoration: underline;" data-ajax="false">【点击进入醉茗居专场】</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-08T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _previousDataValues: 
+   { RECID: 26,
+     TITLE: '醉茗居专场',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=207\' style="color:#f00;text-decoration: underline;" data-ajax="false">【点击进入醉茗居专场】</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-08T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 27,
+     TITLE: '紫晶枣年货物流1',
+     CONTENT: '<span style="color:#f00">受北方的快递公司春节前停止收件影响，2月8日停止发货，2月6日—2月22日期间的订单将会安排在2月23日统一发货，2月6日—2月22日这段期间只接单、不发货。敬请谅解</span>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-22T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _previousDataValues: 
+   { RECID: 27,
+     TITLE: '紫晶枣年货物流1',
+     CONTENT: '<span style="color:#f00">受北方的快递公司春节前停止收件影响，2月8日停止发货，2月6日—2月22日期间的订单将会安排在2月23日统一发货，2月6日—2月22日这段期间只接单、不发货。敬请谅解</span>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-22T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 28,
+     TITLE: '赣南脐橙年货物流111',
+     CONTENT: '<span style="color:#f00">春节期间：2月13号-2月25号暂停发货，带来不便敬请谅解。</span>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-25T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '01' },
+  _previousDataValues: 
+   { RECID: 28,
+     TITLE: '赣南脐橙年货物流111',
+     CONTENT: '<span style="color:#f00">春节期间：2月13号-2月25号暂停发货，带来不便敬请谅解。</span>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-25T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '01' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 29,
+     TITLE: '清洁膏年货物流',
+     CONTENT: '<span style="color:#f00">2018年春节期间收发货安排：2月3日停止发货，节后2月23日开始正常发货。2月4日至2月22日期间不发货也不接受退换货，有退换货需求等节后再做处理，期间仓库休假不方便接收，带来不便敬请谅解！</span>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-22T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '01' },
+  _previousDataValues: 
+   { RECID: 29,
+     TITLE: '清洁膏年货物流',
+     CONTENT: '<span style="color:#f00">2018年春节期间收发货安排：2月3日停止发货，节后2月23日开始正常发货。2月4日至2月22日期间不发货也不接受退换货，有退换货需求等节后再做处理，期间仓库休假不方便接收，带来不便敬请谅解！</span>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-22T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '01' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 30,
+     TITLE: '瑶鸡年货物流',
+     CONTENT: '<span style="color:#f00">春节期间：2月8号停止发货，敬请谅解。</span>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-22T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '01' },
+  _previousDataValues: 
+   { RECID: 30,
+     TITLE: '瑶鸡年货物流',
+     CONTENT: '<span style="color:#f00">春节期间：2月8号停止发货，敬请谅解。</span>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T08:00:00.000Z,
+     END_TIME: 2018-02-22T07:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '01' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 22,
+     TITLE: '人参专场1',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=210\' style="color:#f00;text-decoration: underline;" data-ajax="false">【点击进入人参专场】</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T00:00:00.000Z,
+     END_TIME: 2018-02-08T00:00:00.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '12' },
+  _previousDataValues: 
+   { RECID: 22,
+     TITLE: '人参专场1',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=210\' style="color:#f00;text-decoration: underline;" data-ajax="false">【点击进入人参专场】</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T00:00:00.000Z,
+     END_TIME: 2018-02-08T00:00:00.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '12' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 23,
+     TITLE: '潮汕丸子套餐',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=192\'  style="color:#f00;text-decoration: underline;" data-ajax="false">【点击进入潮汕丸子套餐专场】</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T00:00:00.000Z,
+     END_TIME: 2018-02-07T23:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _previousDataValues: 
+   { RECID: 23,
+     TITLE: '潮汕丸子套餐',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=192\'  style="color:#f00;text-decoration: underline;" data-ajax="false">【点击进入潮汕丸子套餐专场】</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-31T00:00:00.000Z,
+     END_TIME: 2018-02-07T23:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 24,
+     TITLE: '凉茶专场',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=209 \' style="color:#f00;text-decoration: underline;" data-ajax="false">【点击进入凉茶专场】</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-30T16:00:00.000Z,
+     END_TIME: 2018-02-07T15:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _previousDataValues: 
+   { RECID: 24,
+     TITLE: '凉茶专场',
+     CONTENT: '<a href = \'https://gdtvshop.weixinmvp.com/Wap/Shop/ProductListByTag.aspx?tag=209 \' style="color:#f00;text-decoration: underline;" data-ajax="false">【点击进入凉茶专场】</a>',
+     IMAGE_URL: '[]',
+     URL: null,
+     START_TIME: 2018-01-30T16:00:00.000Z,
+     END_TIME: 2018-02-07T15:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: '99' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 18,
+     TITLE: '产品名前年货节图标',
+     CONTENT: null,
+     IMAGE_URL: '[{"FileId":0,"FilePath":"/images/20180129/upload_88b015949e25c288e138130a16393a27.jpg","FileName":null,"FileExt":"jpg","SplitList":null,"ServerUrl":"http://cmsuser.weixinmvp.com"}]',
+     URL: null,
+     START_TIME: 2018-01-29T07:27:29.000Z,
+     END_TIME: 2018-02-08T23:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'RODUCT_NAME_BEFORE',
+     SORT: '99' },
+  _previousDataValues: 
+   { RECID: 18,
+     TITLE: '产品名前年货节图标',
+     CONTENT: null,
+     IMAGE_URL: '[{"FileId":0,"FilePath":"/images/20180129/upload_88b015949e25c288e138130a16393a27.jpg","FileName":null,"FileExt":"jpg","SplitList":null,"ServerUrl":"http://cmsuser.weixinmvp.com"}]',
+     URL: null,
+     START_TIME: 2018-01-29T07:27:29.000Z,
+     END_TIME: 2018-02-08T23:59:59.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'RODUCT_NAME_BEFORE',
+     SORT: '99' },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_562ab1f36ea33c7bdcbbcde3f4ecc358
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_b7d71f4172ec790bd77e4e8dc714dcf1
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_62cd6ec8e899df5b5a5cdd2dd3e946d4
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_c3c9e8ead7db0f5fc6f28a794b147119
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_7377f6b57e38f52893916661a2897d46
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_3552ebdf711e19f689a1c67417c4df71
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_72b71a588ae797cce770ce6660ab750b
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_d62ebd2cd26d20e80621f9455c528de3
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_fc059f8e05ec257984eb5376f3be11d0
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_6a1024f4288929c7ee39316fbff78e8a
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_48dfd7d7b83a1d7e36fa1af85419fd11
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_9cf175083b877b9b8267db18b0a5b935
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_8963cf8a1f2ea85284451fc2485537db
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_52964543c64a448653d006227829a107
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_37064fc6d8424e23fccbd65d2800b147
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_df1226705cc5794651a4e950a6788880
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_2b468955596a9bc50aa494187e1e53a1
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_f8eba28382565a3bce75171c83bb3a80
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_3901bb0d8d271d874f5ea809eec42870
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_d3eaa6a3ca23f37cd620e853563010e2
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_760acc7c4fbbc97b735f544a9817bae7
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_1b62191f4f11ac228553c9a0fd4d8d29
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_e4b8e37840d3c442e056f035ee1b9c6d
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_4ea30d44c52665b326cf86244bfc454c
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_39c199bbdb79b2ad7c95b165d7b3fb22
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_ef3829b08317b2879c5db3ff9032e563
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_444df95fcf25850728bb2a0ff51f8807
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_02c56ec4012854775e37f4da3ddac986
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_b9658a2f6dd2cdc78cfc8cda76238c99
+running
+running
+running
+cms_tag_info {
+  dataValues: 
+   { RECID: 6,
+     TITLE: '年货节活动大促销',
+     CONTENT: '<br><span style=\'color:#f00\'>&nbsp;&nbsp;该准备年货啦，一年仅此一次，DV商城年货节，2月1号至8号，等你来袭！</span>',
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-02-27T08:00:00.000Z,
+     END_TIME: 2018-02-28T08:00:00.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: null },
+  _previousDataValues: 
+   { RECID: 6,
+     TITLE: '年货节活动大促销',
+     CONTENT: '<br><span style=\'color:#f00\'>&nbsp;&nbsp;该准备年货啦，一年仅此一次，DV商城年货节，2月1号至8号，等你来袭！</span>',
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-02-27T08:00:00.000Z,
+     END_TIME: 2018-02-28T08:00:00.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: null },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 4,
+     TITLE: '腊味专场',
+     CONTENT: null,
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-01-05T00:00:00.000Z,
+     END_TIME: 2018-01-06T00:00:00.000Z,
+     KIND: 'IMAGE',
+     STATUS: 0,
+     POSITION_CODE: 'PRODUCT_IMAGE_BOTTOM',
+     SORT: null },
+  _previousDataValues: 
+   { RECID: 4,
+     TITLE: '腊味专场',
+     CONTENT: null,
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-01-05T00:00:00.000Z,
+     END_TIME: 2018-01-06T00:00:00.000Z,
+     KIND: 'IMAGE',
+     STATUS: 0,
+     POSITION_CODE: 'PRODUCT_IMAGE_BOTTOM',
+     SORT: null },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 1,
+     TITLE: '腊味专场',
+     CONTENT: '<span style=\'color:#f00\'>双十一福利大放送</span>',
+     IMAGE_URL: null,
+     URL: '/',
+     START_TIME: 2018-01-02T00:00:00.000Z,
+     END_TIME: 2018-01-10T00:00:00.000Z,
+     KIND: 'DOC',
+     STATUS: 0,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: null },
+  _previousDataValues: 
+   { RECID: 1,
+     TITLE: '腊味专场',
+     CONTENT: '<span style=\'color:#f00\'>双十一福利大放送</span>',
+     IMAGE_URL: null,
+     URL: '/',
+     START_TIME: 2018-01-02T00:00:00.000Z,
+     END_TIME: 2018-01-10T00:00:00.000Z,
+     KIND: 'DOC',
+     STATUS: 0,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: null },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 2,
+     TITLE: '腊味专场',
+     CONTENT: null,
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-01-01T00:00:00.000Z,
+     END_TIME: 2018-01-10T00:00:00.000Z,
+     KIND: 'IMAGE',
+     STATUS: 0,
+     POSITION_CODE: 'PRODUCT_IMAGE_TOP',
+     SORT: null },
+  _previousDataValues: 
+   { RECID: 2,
+     TITLE: '腊味专场',
+     CONTENT: null,
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-01-01T00:00:00.000Z,
+     END_TIME: 2018-01-10T00:00:00.000Z,
+     KIND: 'IMAGE',
+     STATUS: 0,
+     POSITION_CODE: 'PRODUCT_IMAGE_TOP',
+     SORT: null },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 3,
+     TITLE: '腊味专场',
+     CONTENT: null,
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-01-01T00:00:00.000Z,
+     END_TIME: 2018-01-17T00:00:00.000Z,
+     KIND: 'IMAGE',
+     STATUS: 0,
+     POSITION_CODE: 'RODUCT_NAME_BEFORE',
+     SORT: null },
+  _previousDataValues: 
+   { RECID: 3,
+     TITLE: '腊味专场',
+     CONTENT: null,
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-01-01T00:00:00.000Z,
+     END_TIME: 2018-01-17T00:00:00.000Z,
+     KIND: 'IMAGE',
+     STATUS: 0,
+     POSITION_CODE: 'RODUCT_NAME_BEFORE',
+     SORT: null },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 5,
+     TITLE: 'egeg',
+     CONTENT: 'egeg',
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-01-01T00:00:00.000Z,
+     END_TIME: 2018-01-31T00:00:00.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_IMAGE_BOTTOM',
+     SORT: null },
+  _previousDataValues: 
+   { RECID: 5,
+     TITLE: 'egeg',
+     CONTENT: 'egeg',
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-01-01T00:00:00.000Z,
+     END_TIME: 2018-01-31T00:00:00.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_IMAGE_BOTTOM',
+     SORT: null },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_f61bafc9b96cffa8a8eee775e946f068
+D:\公司项目-新\gdtv_cms\balanceServer\uploadFile\upload_d0f273390f8c227a52d1f505ef2e5728
+cms_tag_info {
+  dataValues: 
+   { RECID: 6,
+     TITLE: '年货节活动大促销',
+     CONTENT: '<br><span style=\'color:#f00\'>&nbsp;&nbsp;该准备年货啦，一年仅此一次，DV商城年货节，2月1号至8号，等你来袭！</span>',
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-02-27T08:00:00.000Z,
+     END_TIME: 2018-02-28T08:00:00.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: null },
+  _previousDataValues: 
+   { RECID: 6,
+     TITLE: '年货节活动大促销',
+     CONTENT: '<br><span style=\'color:#f00\'>&nbsp;&nbsp;该准备年货啦，一年仅此一次，DV商城年货节，2月1号至8号，等你来袭！</span>',
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-02-27T08:00:00.000Z,
+     END_TIME: 2018-02-28T08:00:00.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: null },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 4,
+     TITLE: '腊味专场',
+     CONTENT: null,
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-01-05T00:00:00.000Z,
+     END_TIME: 2018-01-06T00:00:00.000Z,
+     KIND: 'IMAGE',
+     STATUS: 0,
+     POSITION_CODE: 'PRODUCT_IMAGE_BOTTOM',
+     SORT: null },
+  _previousDataValues: 
+   { RECID: 4,
+     TITLE: '腊味专场',
+     CONTENT: null,
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-01-05T00:00:00.000Z,
+     END_TIME: 2018-01-06T00:00:00.000Z,
+     KIND: 'IMAGE',
+     STATUS: 0,
+     POSITION_CODE: 'PRODUCT_IMAGE_BOTTOM',
+     SORT: null },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 1,
+     TITLE: '腊味专场',
+     CONTENT: '<span style=\'color:#f00\'>双十一福利大放送</span>',
+     IMAGE_URL: null,
+     URL: '/',
+     START_TIME: 2018-01-02T00:00:00.000Z,
+     END_TIME: 2018-01-10T00:00:00.000Z,
+     KIND: 'DOC',
+     STATUS: 0,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: null },
+  _previousDataValues: 
+   { RECID: 1,
+     TITLE: '腊味专场',
+     CONTENT: '<span style=\'color:#f00\'>双十一福利大放送</span>',
+     IMAGE_URL: null,
+     URL: '/',
+     START_TIME: 2018-01-02T00:00:00.000Z,
+     END_TIME: 2018-01-10T00:00:00.000Z,
+     KIND: 'DOC',
+     STATUS: 0,
+     POSITION_CODE: 'PRODUCT_DESC_AFTER',
+     SORT: null },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 2,
+     TITLE: '腊味专场',
+     CONTENT: null,
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-01-01T00:00:00.000Z,
+     END_TIME: 2018-01-10T00:00:00.000Z,
+     KIND: 'IMAGE',
+     STATUS: 0,
+     POSITION_CODE: 'PRODUCT_IMAGE_TOP',
+     SORT: null },
+  _previousDataValues: 
+   { RECID: 2,
+     TITLE: '腊味专场',
+     CONTENT: null,
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-01-01T00:00:00.000Z,
+     END_TIME: 2018-01-10T00:00:00.000Z,
+     KIND: 'IMAGE',
+     STATUS: 0,
+     POSITION_CODE: 'PRODUCT_IMAGE_TOP',
+     SORT: null },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 3,
+     TITLE: '腊味专场',
+     CONTENT: null,
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-01-01T00:00:00.000Z,
+     END_TIME: 2018-01-17T00:00:00.000Z,
+     KIND: 'IMAGE',
+     STATUS: 0,
+     POSITION_CODE: 'RODUCT_NAME_BEFORE',
+     SORT: null },
+  _previousDataValues: 
+   { RECID: 3,
+     TITLE: '腊味专场',
+     CONTENT: null,
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-01-01T00:00:00.000Z,
+     END_TIME: 2018-01-17T00:00:00.000Z,
+     KIND: 'IMAGE',
+     STATUS: 0,
+     POSITION_CODE: 'RODUCT_NAME_BEFORE',
+     SORT: null },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+cms_tag_info {
+  dataValues: 
+   { RECID: 5,
+     TITLE: 'egeg',
+     CONTENT: 'egeg',
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-01-01T00:00:00.000Z,
+     END_TIME: 2018-01-31T00:00:00.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_IMAGE_BOTTOM',
+     SORT: null },
+  _previousDataValues: 
+   { RECID: 5,
+     TITLE: 'egeg',
+     CONTENT: 'egeg',
+     IMAGE_URL: '[]',
+     URL: '/',
+     START_TIME: 2018-01-01T00:00:00.000Z,
+     END_TIME: 2018-01-31T00:00:00.000Z,
+     KIND: 'DOC',
+     STATUS: 1,
+     POSITION_CODE: 'PRODUCT_IMAGE_BOTTOM',
+     SORT: null },
+  _changed: {},
+  _modelOptions: 
+   { timestamps: true,
+     validate: {},
+     freezeTableName: false,
+     underscored: false,
+     underscoredAll: false,
+     paranoid: false,
+     rejectOnEmpty: false,
+     whereCollection: { TITLE: [Object] },
+     schema: null,
+     schemaDelimiter: '',
+     defaultScope: {},
+     scopes: [],
+     indexes: [],
+     name: { plural: 'cms_tag_infos', singular: 'cms_tag_info' },
+     omitNull: false,
+     createdAt: false,
+     updatedAt: false,
+     charset: 'utf8',
+     tableName: 'cms_tag_info',
+     sequelize: 
+      Sequelize {
+        options: [Object],
+        config: [Object],
+        dialect: [Object],
+        queryInterface: [Object],
+        models: [Object],
+        modelManager: [Object],
+        connectionManager: [Object],
+        importCache: [Object],
+        test: [Object] },
+     hooks: {},
+     uniqueKeys: {} },
+  _options: 
+   { isNewRecord: false,
+     _schema: null,
+     _schemaDelimiter: '',
+     raw: true,
+     attributes: 
+      [ 'RECID',
+        'TITLE',
+        'CONTENT',
+        'IMAGE_URL',
+        'URL',
+        'START_TIME',
+        'END_TIME',
+        'KIND',
+        'STATUS',
+        'POSITION_CODE',
+        'SORT' ] },
+  __eagerlyLoadedAssociations: [],
+  isNewRecord: false }
+running
+{ search: '牛肉丸', offset: '0', limit: '4' }
+running

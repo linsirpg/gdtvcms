@@ -1,0 +1,7 @@
+[2018-04-19T18:20:29.501] [TRACE] request - f89yfhlc ::ffff:127.0.0.1 POST /shophome/update 200 16ms
+[2018-04-19T18:20:36.936] [TRACE] request - uvx8c8d9 ::ffff:127.0.0.1 POST /shophome/update 200 9ms
+[2018-04-19T18:20:41.966] [TRACE] request - dkc0ev2h ::ffff:127.0.0.1 POST /shophome/update 200 6ms
+[2018-04-19T18:20:45.439] [TRACE] request - 1umo2cjq ::ffff:127.0.0.1 GET /shophome/Goodstatus?status=0&Id=877 200 19ms
+[2018-04-19T18:20:48.743] [TRACE] request - 9gxrdahe ::ffff:127.0.0.1 POST /shophome/update 200 8ms
+[2018-04-19T18:20:48.772] [TRACE] request - 1rvt47f5 ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=HOME_HOT&offset=0&limit=10&title=&status=2 200 15ms
+[2018-04-19T18:20:59.396] [TRACE] request - bi6r056p ::ffff:127.0.0.1 POST /shophome/update 200 7ms

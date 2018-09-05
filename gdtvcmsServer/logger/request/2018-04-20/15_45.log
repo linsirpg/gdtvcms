@@ -1,0 +1,7 @@
+[2018-04-20T15:45:59.052] [TRACE] request - cjm9vta1 ::ffff:192.168.0.112 GET /admin 200 4ms
+[2018-04-20T15:45:59.081] [TRACE] request - 70demhbf ::ffff:192.168.0.112 GET /admin/static/js/manifest.8860683f8ab0fac226d4.js 200 8ms
+[2018-04-20T15:45:59.082] [TRACE] request - 05x0hq1p ::ffff:192.168.0.112 GET /admin/static/js/app.3130278d50e9011f0077.js 200 6ms
+[2018-04-20T15:45:59.543] [TRACE] request - gairg8mb ::ffff:192.168.0.112 GET /server/getCookie 200 45ms
+[2018-04-20T15:45:59.561] [TRACE] request - 8b8q5fxm ::ffff:192.168.0.112 GET /admin/static/js/2.e967633b7d4d73a4cb96.js 200 4ms
+[2018-04-20T15:45:59.741] [TRACE] request - jg7dgxf1 ::ffff:192.168.0.112 GET /shophome/getKind?advertCode=HOMT_ADVERTISING_SPACE_1 200 19ms
+[2018-04-20T15:45:59.761] [TRACE] request - m7ap6959 ::ffff:192.168.0.112 GET /shophome/GetCmsProductRef?Code=HOMT_ADVERTISING_SPACE_1&offset=0&limit=10&title=&status=2 200 32ms

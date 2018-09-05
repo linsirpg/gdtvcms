@@ -1,0 +1,8 @@
+[2018-05-04T11:07:12.977] [TRACE] request - 3l7beauk ::ffff:127.0.0.1 GET /server/getCookie 200 29ms
+[2018-05-04T11:07:13.118] [TRACE] request - 00q9sivx ::ffff:127.0.0.1 GET /shophome/advertPosition?offset=0&limit=10&title=&status=2 200 16ms
+[2018-05-04T11:07:16.160] [TRACE] request - rddiwn42 ::ffff:127.0.0.1 GET /server/getCookie 200 9ms
+[2018-05-04T11:07:16.404] [TRACE] request - ylh8b102 ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=HOMT_ADVERTISING_SPACE_2 200 14ms
+[2018-05-04T11:07:16.413] [TRACE] request - 2rhitmhv ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=HOMT_ADVERTISING_SPACE_2&offset=0&limit=10&title=&status=2 200 20ms
+[2018-05-04T11:07:52.443] [TRACE] request - r81g8jbn ::ffff:127.0.0.1 GET /server/getCookie 200 10ms
+[2018-05-04T11:07:52.703] [TRACE] request - 5hdwsc4n ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=HOME_BANNER 200 21ms
+[2018-05-04T11:07:52.721] [TRACE] request - f5se1pq1 ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=HOME_BANNER&offset=0&limit=10&title=&status=2 200 37ms

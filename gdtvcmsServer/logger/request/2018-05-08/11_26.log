@@ -1,0 +1,12 @@
+[2018-05-08T11:26:25.545] [TRACE] request - iu3eqlj3 ::ffff:127.0.0.1 GET /server/getCookie 200 128ms
+[2018-05-08T11:26:30.643] [TRACE] request - tvfevwf2 ::ffff:127.0.0.1 GET /server/getCookie 200 97ms
+[2018-05-08T11:26:30.849] [TRACE] request - cek0p4af ::ffff:127.0.0.1 GET /shophome/advertPosition?offset=0&limit=10&title=%E7%BE%8E%E9%A3%9F&status=2 200 54ms
+[2018-05-08T11:26:32.705] [TRACE] request - xotes91d ::ffff:127.0.0.1 GET /server/getCookie 200 91ms
+[2018-05-08T11:26:32.912] [TRACE] request - 7rpclw8a ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=MS_BANNER 200 16ms
+[2018-05-08T11:26:32.928] [TRACE] request - w3xnxw7r ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=MS_BANNER&offset=0&limit=10&title=&status=2 200 31ms
+[2018-05-08T11:26:36.331] [TRACE] request - d3i3r5c8 ::ffff:127.0.0.1 GET /server/getCookie 200 21ms
+[2018-05-08T11:26:36.534] [TRACE] request - fp2g405l ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=MS_CATEGORY 200 23ms
+[2018-05-08T11:26:36.543] [TRACE] request - ruk4dfyf ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=MS_CATEGORY&offset=0&limit=10&title=&status=2 200 27ms
+[2018-05-08T11:26:46.722] [TRACE] request - rv6lpp95 ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=MS_CATEGORY&offset=10&limit=10&title=&status=2 200 262ms
+[2018-05-08T11:26:50.879] [TRACE] request - xgl4xu5g ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=MS_CATEGORY&offset=0&limit=10&title=&status=2 200 111ms
+[2018-05-08T11:26:53.363] [TRACE] request - 00fxr129 ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=MS_CATEGORY&offset=10&limit=10&title=&status=2 200 178ms

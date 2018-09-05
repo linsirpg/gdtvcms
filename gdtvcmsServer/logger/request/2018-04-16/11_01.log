@@ -1,0 +1,5 @@
+[2018-04-16T11:01:00.053] [TRACE] request - sgnyfu5x ::ffff:127.0.0.1 GET /server/getCookie 200 21ms
+[2018-04-16T11:01:00.169] [TRACE] request - 0cwouv56 ::ffff:127.0.0.1 GET /shophome/advertPosition?offset=0&limit=10&title=&status=2 200 11ms
+[2018-04-16T11:01:02.523] [TRACE] request - 4qo0x04h ::ffff:127.0.0.1 GET /server/getCookie 200 10ms
+[2018-04-16T11:01:02.734] [TRACE] request - 4vqa5jka ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=HOME_BANNER 200 16ms
+[2018-04-16T11:01:02.756] [TRACE] request - 55ivjbr9 ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=HOME_BANNER&offset=0&limit=10&title=&status=2 200 35ms

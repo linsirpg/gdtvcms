@@ -1,0 +1,4 @@
+[2018-04-16T10:04:26.585] [TRACE] request - nbtfmvnw ::ffff:192.168.0.112 GET / 302 16ms
+[2018-04-16T10:04:27.644] [TRACE] request - 7krakx24 ::ffff:192.168.0.112 GET /favicon.ico 404 2ms
+[2018-04-16T10:04:27.717] [TRACE] request - e0ua51e1 ::ffff:192.168.0.112 GET /server/getCookie 200 270ms
+[2018-04-16T10:04:27.960] [TRACE] request - rk5abo68 ::ffff:192.168.0.112 GET /server/GetSpecialSubjectPagination?offset=0&limit=10&title=&Status=2 200 66ms

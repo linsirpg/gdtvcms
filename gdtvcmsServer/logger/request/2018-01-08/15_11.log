@@ -1,0 +1,17 @@
+[2018-01-08T15:11:15.453] [TRACE] request - yefdethv ::ffff:192.168.0.32 GET / 302 15ms
+[2018-01-08T15:11:16.516] [TRACE] request - 790bamgt ::ffff:192.168.0.32 GET /server/getCookie 200 100ms
+[2018-01-08T15:11:16.602] [TRACE] request - xhftmprf ::ffff:192.168.0.32 GET /favicon.ico 404 1ms
+[2018-01-08T15:11:16.788] [TRACE] request - 8y8fk37b ::ffff:192.168.0.32 GET /favicon.ico 404 1ms
+[2018-01-08T15:11:16.877] [TRACE] request - 24h8m9vq ::ffff:192.168.0.32 GET /server/GetSpecialSubjectPagination?offset=0&limit=10&title=&Status=2 200 103ms
+[2018-01-08T15:11:23.836] [TRACE] request - vyp72988 ::ffff:192.168.0.32 GET /server/GetSpecialSubjectPagination?offset=10&limit=10&title=&Status=2 200 27ms
+[2018-01-08T15:11:25.776] [TRACE] request - iuuw0pim ::ffff:192.168.0.32 GET /server/GetSpecialSubjectPagination?offset=0&limit=10&title=&Status=2 200 12ms
+[2018-01-08T15:11:26.615] [TRACE] request - 32xbb80b ::ffff:192.168.0.32 GET /admin 200 2ms
+[2018-01-08T15:11:27.064] [TRACE] request - vy9wi5mk ::ffff:192.168.0.32 GET /server/getCookie 200 8ms
+[2018-01-08T15:11:27.274] [TRACE] request - e185y6fh ::ffff:192.168.0.32 GET /server/GetSpecialSubjectPagination?offset=0&limit=10&title=&Status=2 200 17ms
+[2018-01-08T15:11:33.299] [TRACE] request - imm6ej76 ::ffff:192.168.0.32 GET /server/GetSpecialSubject?RECID=26 200 11ms
+[2018-01-08T15:11:33.460] [TRACE] request - cwwlan0k ::ffff:192.168.0.32 GET /server/getCookie 200 12ms
+[2018-01-08T15:11:33.607] [TRACE] request - wo8vmv2b ::ffff:192.168.0.32 GET /server/GetSpecialSubject?RECID=26 200 8ms
+[2018-01-08T15:11:36.430] [TRACE] request - 44sbhf9n ::ffff:192.168.0.32 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=13909912-be8c-4376-a0d1-88ff77806b22&title=&Status=2 200 17ms
+[2018-01-08T15:11:36.597] [TRACE] request - 2q3s6sc9 ::ffff:192.168.0.32 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=13909912-be8c-4376-a0d1-88ff77806b22&title=&Status=2 200 13ms
+[2018-01-08T15:11:39.286] [TRACE] request - y2rl9bd6 ::ffff:192.168.0.32 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=546ade41-50e4-47e1-bec7-bbccebc4942d&title=&Status=2 200 16ms
+[2018-01-08T15:11:43.709] [TRACE] request - uh1yvvab ::ffff:192.168.0.32 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=e4d3a392-000a-4cab-a749-b9390f16ff74&title=&Status=2 200 16ms

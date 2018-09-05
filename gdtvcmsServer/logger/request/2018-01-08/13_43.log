@@ -1,0 +1,6 @@
+[2018-01-08T13:43:01.190] [TRACE] request - 7nbiojpa ::ffff:192.168.0.32 GET /admin 200 1ms
+[2018-01-08T13:43:01.508] [TRACE] request - 9uyocixf ::ffff:192.168.0.32 GET /server/getCookie 200 36ms
+[2018-01-08T13:43:01.645] [TRACE] request - dekgw5gl ::ffff:192.168.0.32 GET /server/GetSpecialSubject?RECID=26 200 36ms
+[2018-01-08T13:43:48.713] [TRACE] request - lh5muqi6 ::ffff:192.168.0.32 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=13909912-be8c-4376-a0d1-88ff77806b22&title=&Status=2 200 184ms
+[2018-01-08T13:43:48.802] [TRACE] request - dtocoi8b ::ffff:192.168.0.32 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=13909912-be8c-4376-a0d1-88ff77806b22&title=&Status=2 200 43ms
+[2018-01-08T13:43:55.779] [TRACE] request - kacqis0s ::ffff:192.168.0.32 GET /server/Goodstatus?status=0&Id=1717 200 42ms

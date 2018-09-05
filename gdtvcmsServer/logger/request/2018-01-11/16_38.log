@@ -1,0 +1,24 @@
+[2018-01-11T16:38:03.307] [TRACE] request - xgderik5 ::ffff:192.168.0.32 GET /server/getCookie 200 438ms
+[2018-01-11T16:38:03.419] [ERROR] requestError - nqkyd6en ::ffff:192.168.0.32 GET /server/GetSpecialSubjectPagination?offset=0&limit=10&title=&Status=2 404 2ms TypeError: ctx.log is not a function
+    at ServerController.GetSpecialSubjectPagination (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\app\controller\server\server.js:20:17)
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\lib\router.js:345:16
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\lib\router.js:350:31)
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:42:32)
+    at next (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:43:18)
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:42:32)
+    at next (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:43:18)
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:42:32)
+    at next (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:43:18)
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:42:32)
+    at next (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:43:18)
+    at views (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-views\src\index.js:55:12)
+    at dispatch (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:42:32)
+    at next (D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\node_modules\koa-compose\index.js:43:18)
+    at D:\公司项目-新\20170929001_gdtv_balance1\balanceServer\heiner\middleware\heiner_body.js:113:16

@@ -1,0 +1,9 @@
+[2018-01-08T17:09:51.766] [TRACE] request - f2kvo7oe ::ffff:192.168.0.32 GET / 302 10ms
+[2018-01-08T17:09:52.283] [TRACE] request - nptmmxht ::ffff:192.168.0.32 GET /favicon.ico 404 1ms
+[2018-01-08T17:09:52.338] [TRACE] request - q7j9vhii ::ffff:192.168.0.32 GET /server/getCookie 200 162ms
+[2018-01-08T17:09:52.588] [TRACE] request - vgs8531i ::ffff:192.168.0.32 GET /server/GetSpecialSubjectPagination?offset=0&limit=10&title=&Status=2 200 139ms
+[2018-01-08T17:09:54.022] [TRACE] request - 8mab06qr ::ffff:192.168.0.32 GET /server/GetSpecialSubject?RECID=26 200 70ms
+[2018-01-08T17:09:54.085] [TRACE] request - 7sfy8y9h ::ffff:192.168.0.32 GET /server/getCookie 200 36ms
+[2018-01-08T17:09:54.237] [TRACE] request - ooeysd9i ::ffff:192.168.0.32 GET /server/GetSpecialSubject?RECID=26 200 39ms
+[2018-01-08T17:09:57.182] [TRACE] request - djx1smto ::ffff:192.168.0.32 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=546ade41-50e4-47e1-bec7-bbccebc4942d&title=&Status=2 200 42ms
+[2018-01-08T17:09:57.370] [TRACE] request - fv0n2mot ::ffff:192.168.0.32 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=546ade41-50e4-47e1-bec7-bbccebc4942d&title=&Status=2 200 38ms

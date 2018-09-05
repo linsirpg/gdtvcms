@@ -1,0 +1,3 @@
+[2018-04-20T15:46:01.791] [TRACE] request - ceocqswx ::ffff:192.168.0.112 GET /shophome/Goodstatus?status=0&Id=15 200 60ms
+[2018-04-20T15:46:02.372] [TRACE] request - 2lq4l1th ::ffff:192.168.0.112 GET /shophome/Goodstatus?status=0&Id=1143 200 51ms
+[2018-04-20T15:46:50.344] [TRACE] request - nuim8j5m ::ffff:192.168.0.112 POST /server/file 200 17565ms

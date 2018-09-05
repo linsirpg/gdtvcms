@@ -1,0 +1,2 @@
+[2018-01-08T15:20:03.509] [TRACE] request - w0kbio5p ::ffff:127.0.0.1 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=13909912-be8c-4376-a0d1-88ff77806b22&title=&Status=2 200 17ms
+[2018-01-08T15:20:53.829] [TRACE] request - 34kma98r ::ffff:127.0.0.1 GET /server/GetSpecialSubject?RECID=26 200 25ms

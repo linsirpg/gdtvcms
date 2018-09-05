@@ -1,0 +1,10 @@
+[2018-01-08T15:13:22.962] [TRACE] request - xfh21tfo ::ffff:192.168.0.32 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=546ade41-50e4-47e1-bec7-bbccebc4942d&title=&Status=2 200 27ms
+[2018-01-08T15:13:25.013] [TRACE] request - 5lofqv54 ::ffff:192.168.0.32 GET /admin 200 3ms
+[2018-01-08T15:13:25.046] [TRACE] request - ri7wgup0 ::ffff:192.168.0.32 GET /admin/static/css/app.db8b41d0dbec02adde6f3060ee88086c.css 200 3ms
+[2018-01-08T15:13:25.051] [TRACE] request - 86ckpi40 ::ffff:192.168.0.32 GET /admin/static/js/manifest.7873cc0e4fd45a48f377.js 200 4ms
+[2018-01-08T15:13:25.053] [TRACE] request - dbmlr4m5 ::ffff:192.168.0.32 GET /admin/static/js/vendor.bb29ae2bc7529b557231.js 200 3ms
+[2018-01-08T15:13:25.054] [TRACE] request - lr2ym12s ::ffff:192.168.0.32 GET /admin/static/js/app.a763ea01121ca5a23d84.js 200 4ms
+[2018-01-08T15:13:25.447] [TRACE] request - melhs2ai ::ffff:192.168.0.32 GET /server/getCookie 200 6ms
+[2018-01-08T15:13:25.589] [TRACE] request - pfd7gpcj ::ffff:192.168.0.32 GET /server/GetSpecialSubject?RECID=26 200 11ms
+[2018-01-08T15:13:27.644] [TRACE] request - s24pkbrl ::ffff:192.168.0.32 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=0ef6d160-d5f4-427f-affc-7b97140e6c1d&title=&Status=2 200 13ms
+[2018-01-08T15:13:28.014] [TRACE] request - vs9taqr5 ::ffff:192.168.0.32 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=0ef6d160-d5f4-427f-affc-7b97140e6c1d&title=&Status=2 200 14ms

@@ -1,0 +1,9 @@
+[2018-04-20T15:31:32.681] [TRACE] request - y6jbh4q6 ::ffff:192.168.0.112 GET / 302 5ms
+[2018-04-20T15:31:33.691] [TRACE] request - 8ejjng4j ::ffff:192.168.0.112 GET /server/getCookie 200 47ms
+[2018-04-20T15:31:33.896] [TRACE] request - hcoj9osn ::ffff:192.168.0.112 GET /favicon.ico 404 1ms
+[2018-04-20T15:31:33.898] [TRACE] request - dyd3qw6w ::ffff:192.168.0.112 GET /server/getCookie 200 11ms
+[2018-04-20T15:31:33.918] [TRACE] request - xpwt43yw ::ffff:192.168.0.112 GET /admin/static/js/0.f8e6e5e6f06cc932b390.js 200 3ms
+[2018-04-20T15:31:33.986] [TRACE] request - kiqqd63c ::ffff:192.168.0.112 GET /admin/static/img/bg.fb19980.jpg 200 3ms
+[2018-04-20T15:31:43.358] [TRACE] request - 2hchrwd0 ::ffff:192.168.0.112 POST /server/login 200 7ms
+[2018-04-20T15:31:50.728] [TRACE] request - 7b166imy ::ffff:192.168.0.112 POST /server/login 200 14ms
+[2018-04-20T15:31:57.903] [TRACE] request - upweua89 ::ffff:192.168.0.112 POST /server/login 200 4ms

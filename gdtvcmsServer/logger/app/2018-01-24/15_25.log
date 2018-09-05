@@ -1,0 +1,28 @@
+[2018-01-24T15:25:00.025] [INFO] app - 连接数据库 [mysql -h 114.215.183.168 -u gdtv_cms -D gdtv_cms]
+[2018-01-24T15:25:00.102] [INFO] app - 注册 Helper [moment]
+[2018-01-24T15:25:00.103] [INFO] app - 注册 Helper [async]
+[2018-01-24T15:25:00.111] [INFO] app - 注册 Helper [lodash]
+[2018-01-24T15:25:00.116] [INFO] app - 注册 Middleware [heiner_static]
+[2018-01-24T15:25:00.116] [INFO] app - 注册 Middleware [heiner_query]
+[2018-01-24T15:25:00.116] [INFO] app - 注册 Middleware [heiner_body]
+[2018-01-24T15:25:00.116] [INFO] app - 注册 Middleware [heiner_view]
+[2018-01-24T15:25:00.158] [INFO] app - 注册 Middleware [heiner_static]
+[2018-01-24T15:25:00.164] [INFO] app - 注册 Middleware [heiner_query]
+[2018-01-24T15:25:00.216] [INFO] app - 注册 Middleware [heiner_body]
+[2018-01-24T15:25:00.248] [INFO] app - 注册 Middleware [heiner_view]
+[2018-01-24T15:25:00.254] [INFO] app - 注册 Controller [articleinfo.articleinfo]
+[2018-01-24T15:25:00.258] [INFO] app - 注册 Controller [describe.describe]
+[2018-01-24T15:25:00.260] [INFO] app - 注册 Controller [home]
+[2018-01-24T15:25:00.262] [INFO] app - 注册 Controller [presetproduct.presetproduct]
+[2018-01-24T15:25:00.264] [INFO] app - 注册 Controller [public.public]
+[2018-01-24T15:25:00.741] [INFO] app - 注册 Controller [server.server]
+[2018-01-24T15:25:00.853] [INFO] app - 注册 Router [articleinfo]
+[2018-01-24T15:25:00.856] [INFO] app - 注册 Router [describe]
+[2018-01-24T15:25:00.858] [INFO] app - 注册 Router [index]
+[2018-01-24T15:25:00.859] [INFO] app - 注册 Router [presetproduct]
+[2018-01-24T15:25:00.860] [INFO] app - 注册 Router [public]
+[2018-01-24T15:25:00.861] [INFO] app - 注册 Router [server]
+[2018-01-24T15:25:00.864] [INFO] app - 启动项目成功 端口：3000
+[2018-01-24T15:25:02.557] [INFO] app - 1111
+[2018-01-24T15:25:23.999] [INFO] app - 1111
+[2018-01-24T15:25:35.569] [INFO] app - 1111

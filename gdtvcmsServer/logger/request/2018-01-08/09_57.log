@@ -1,0 +1,15 @@
+[2018-01-08T09:57:02.892] [TRACE] request - kch8vh9o ::ffff:192.168.0.32 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=5bc156a2-5c26-4bd0-a1f7-fff149f9ac21&title=&Status=2 200 27ms
+[2018-01-08T09:57:03.067] [TRACE] request - cwmqfd6a ::ffff:192.168.0.32 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=5bc156a2-5c26-4bd0-a1f7-fff149f9ac21&title=&Status=2 200 11ms
+[2018-01-08T09:57:06.289] [TRACE] request - q26sujr5 ::ffff:192.168.0.32 POST /server/file 200 33ms
+[2018-01-08T09:57:06.377] [TRACE] request - ev0xlooj ::ffff:192.168.0.32 GET /images/201818/upload_c56be811a91efa640ccdba357a2edb2c.png 200 1ms
+[2018-01-08T09:57:09.118] [TRACE] request - 6ilcclb7 ::ffff:192.168.0.32 GET /server/FloorUpdate?RECID=38&param=[{%22TempId%22:%221%22,%22Title%22:%22%E7%BA%A2%E8%8C%B6%22,%22Image%22:[{%22FileId%22:0,%22FilePath%22:%22/images/201818/upload_c56be811a91efa640ccdba357a2edb2c.png%22,%22FileName%22:null,%22FileExt%22:%22png%22,%22SplitList%22:null,%22ServerUrl%22:%22http://192.168.0.32:3000%22}],%22Code%22:%225bc156a2-5c26-4bd0-a1f7-fff149f9ac21%22}] 200 124ms
+[2018-01-08T09:57:09.150] [TRACE] request - ko3pyu23 ::ffff:192.168.0.32 GET /server/GetSpecialSubject?RECID=38 200 18ms
+[2018-01-08T09:57:11.868] [TRACE] request - 3pq86fv9 ::ffff:192.168.0.32 GET /images/201818/upload_c56be811a91efa640ccdba357a2edb2c.png.thumb.png 200 2ms
+[2018-01-08T09:57:15.966] [TRACE] request - 1cwu6io6 ::ffff:192.168.0.32 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=5bc156a2-5c26-4bd0-a1f7-fff149f9ac21&title=&Status=2 200 24ms
+[2018-01-08T09:57:46.812] [TRACE] request - p019ules ::ffff:192.168.0.32 GET /server/GetSpecialSubject?RECID=22 200 23ms
+[2018-01-08T09:57:47.188] [TRACE] request - ny9paeiv ::ffff:192.168.0.32 GET /server/getCookie 200 8ms
+[2018-01-08T09:57:47.340] [TRACE] request - aspvx6a6 ::ffff:192.168.0.32 GET /server/GetSpecialSubject?RECID=22 200 7ms
+[2018-01-08T09:57:49.294] [TRACE] request - l45tapd3 ::ffff:192.168.0.32 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=a8ee909081c3476e838a8476f672295d&title=&Status=2 200 15ms
+[2018-01-08T09:57:49.508] [TRACE] request - cyfvl59t ::ffff:192.168.0.32 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=a8ee909081c3476e838a8476f672295d&title=&Status=2 200 12ms
+[2018-01-08T09:57:58.193] [TRACE] request - iyacea0x ::ffff:192.168.0.32 GET /server/addOne?param={%22productNo%22:%22042103124101%22,%22title%22:%22%E7%B2%A4%E6%9C%89%E6%9C%BA%20%E9%80%A2%E6%BA%90%E7%BA%A2%E7%BA%B8%E8%A2%8B%E8%A3%85%22,%22memo%22:%22%E5%91%B3%E9%81%93%E6%B5%93%E9%83%81%E9%A6%99%E7%94%9C%20%E5%9B%9E%E5%91%B3%E6%97%A0%E7%A9%B7%22,%22salePrice%22:%22100.00%20%22,%22sort%22:%2299%22,%22status%22:%221%22,%22url%22:%22https://gdtvshop.weixinmvp.com/Wap/Shop/ProductDetail.aspx?no=042103124101%22,%22relationCode%22:%225bc156a2-5c26-4bd0-a1f7-fff149f9ac21%22,%22relationKind%22:%22specialactivity%22,%22kind%22:%22specialactivity%22} 200 55ms
+[2018-01-08T09:57:58.220] [TRACE] request - u1ck123p ::ffff:192.168.0.32 GET /server/GetCodeGoodsPagination?offset=0&limit=8&code=5bc156a2-5c26-4bd0-a1f7-fff149f9ac21&title=&Status=2 200 9ms

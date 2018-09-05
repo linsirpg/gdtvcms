@@ -1,0 +1,2 @@
+[2018-04-19T18:59:45.072] [TRACE] request - pjee19t6 ::ffff:127.0.0.1 GET /shophome/getKind?advertCode=HOME_NEW_PRODUCT 200 38ms
+[2018-04-19T18:59:45.081] [TRACE] request - av64xprl ::ffff:127.0.0.1 GET /shophome/GetCmsProductRef?Code=HOME_NEW_PRODUCT&offset=0&limit=10&title=&status=2 200 46ms

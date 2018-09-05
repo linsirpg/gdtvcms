@@ -1,0 +1,7 @@
+[2018-05-07T09:40:21.365] [TRACE] request - lc94eg50 ::ffff:192.168.0.112 GET /admin 200 3ms
+[2018-05-07T09:40:21.941] [TRACE] request - ux2tc5ro ::ffff:192.168.0.112 GET /server/getCookie 200 31ms
+[2018-05-07T09:40:22.292] [TRACE] request - rge7xqyp ::ffff:192.168.0.112 GET /server/GetSpecialSubject?RECID=285 200 12ms
+[2018-05-07T09:40:23.844] [TRACE] request - x97mi51o ::ffff:192.168.0.112 GET /server/GetCodeGoodsPagination?offset=0&limit=10&code=5c94a6a79fcc400d973ae5d66ee06212&title=&Status=2 200 30ms
+[2018-05-07T09:40:24.160] [TRACE] request - 7qtxru9y ::ffff:192.168.0.112 GET /server/GetCodeGoodsPagination?offset=0&limit=10&code=5c94a6a79fcc400d973ae5d66ee06212&title=&Status=2 200 15ms
+[2018-05-07T09:40:48.242] [TRACE] request - nou5undb ::ffff:192.168.0.112 GET /server/getCookie 200 30ms
+[2018-05-07T09:40:48.461] [TRACE] request - 90sun40a ::ffff:192.168.0.112 GET /shophome/advertPosition?offset=0&limit=10&title=&status=2 200 26ms
